@@ -1,0 +1,2 @@
+# EMAIL_SPAM_CLASSIFIER
+Developed a robust email spam classifier using machine learning techniques. Applied Natural Language Processing and TF-IDF feature extraction to analyze email content. Achieved high precision and recall through model optimization, significantly enhancing spam detection accuracy. Implemented scalable solutions for real-time email filtering, providing improved user security. The project contributes to a safer email experience by effectively identifying and filtering out spam messages.
